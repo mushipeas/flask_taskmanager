@@ -5,6 +5,7 @@ testapi.py
 testmodule.py
 testfile.txt
 ignore_list.json
+test.db
 
 ### Python ###
 
